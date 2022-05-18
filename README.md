@@ -7,7 +7,7 @@ This application for flutter learning
 ```Tasbeh app ga hush kelibsiz !```
 ```main.dart```
 
-![logo](https://www.google.com/search?q=tasbeh+images&rlz=1C1PNBB_enUZ975UZ975&sxsrf=ALiCzsaANooja59UuX8kdPGDCbRspNfCaw:1652863067555&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjm0YPg0uj3AhWttIsKHSctA1oQ_AUoAXoECAEQAw#imgrc=01HicLww4thuyM)
+![logo](https://avatars.mds.yandex.net/i?id=151479f41e61b8ebc96a9d6515d0ff5b-4614774-images-thumbs&n=13)
 
 
 - [My git file](https://github.com/lazizB17/lesson1_flutter)
