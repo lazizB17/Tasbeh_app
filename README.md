@@ -5,7 +5,7 @@ This application for flutter learning
 #### Flutter B-17
 ```Assalomu alaykum !```
 ```Tasbeh app ga hush kelibsiz !```
-```main.dart```
+
 
 ![logo](https://avatars.mds.yandex.net/i?id=151479f41e61b8ebc96a9d6515d0ff5b-4614774-images-thumbs&n=13)
 
